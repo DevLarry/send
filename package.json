@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "15.5.0"
+  },
+  "name": "okitech",
+  "version": "1.0.0",
+  "description": "dfdf",
+  "main": "app.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo Working well && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "samad",
+  "license": "ISC"
+}
